@@ -1,3 +1,4 @@
+🔗 Live Portfolio: https://riyavesuwala.github.io
 # Hi, I'm Riya Vesuwala 👋
 
 **B.Sc. IT Graduate | M.Sc. IT Student at J.P. Dawar College, VNSGU**  
@@ -7,14 +8,14 @@ Passionate about creating innovative, real-world technology solutions and contri
 ---
 
 ## About Me
-I am a motivated IT graduate currently pursuing my M.Sc. IT, with hands-on experience in AI, software development, and collaborative projects. I enjoy building **AI-driven applications, assistive technologies, and web platforms** that solve practical problems.  
+I am a motivated IT graduate currently pursuing my M.Sc. IT, with hands-on experience in software development, and collaborative projects. I enjoy building **AI-driven applications, assistive technologies, and web platforms** that solve practical problems.  
 I am keen to leverage my skills in **problem-solving, teamwork, and innovative technology development** in professional and academic environments.
 
 ---
 
 ## Technical Skills
 
-- **Languages:** C, C++, Java, DSA, Python, AI and ML, Javascript, PHP, ASP.net, Blazor, Kotlin 
+- **Languages:** C, C++, Java, DSA, Python, Javascript, PHP, ASP.net, Blazor, Kotlin 
 - **Databases:** SQL, MySQL, MongoDB, PostgreSQL, SQL Server,SQLite,Oracle (PL/SQL), Firebase Realtime Database  
 - **Cloud Platforms:** Microsoft Azure (Basic), AWS (Basic), Groq  
 - **AI & ML Tools:** LangChain, LLaMA Models, Hugging Face, Windsurf AI, Cursor AI, Lovable AI
@@ -30,6 +31,11 @@ I am keen to leverage my skills in **problem-solving, teamwork, and innovative t
 **WiseAid – AI-Powered Collaboration & Assistance Platform** *(Company Project)*  
 - Built an AI-enabled collaboration platform with **real-time communication, AI chatbots, audio transcription, and automated summarization**.  
 - Integrated advanced AI tools including **LLaMA, Whisper, Cursor, and Windsurf** to enhance productivity and intelligent collaboration.
+
+**Government Grievance Redressal System** *(Enterprise Java Project)*
+
+- Developed a web-based grievance management system to digitally handle citizen complaints related to public services through a structured and transparent workflow.
+- Implemented features including complaint submission, automated department routing, status tracking, and escalation mechanisms to ensure timely resolution.
 
 ---
 
