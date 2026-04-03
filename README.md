@@ -1,7 +1,7 @@
 # Hi, I'm Riya Vesuwala 👋
 
 **B.Sc. IT Graduate | M.Sc. IT Student at J.P. Dawar College, VNSGU**  
-Aspiring **Python Developer / AI Engineer / Full-Stack Developer**  
+Aspiring **Full-Stack Developer**  
 Passionate about creating innovative, real-world technology solutions and contributing to impactful projects.
 
 ---
